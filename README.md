@@ -1,4 +1,4 @@
-# parsedown-todo-list
+# ParsedownTodoList
 `ParsedownTodoList` is an extension of [Parsedown](https://github.com/erusev/parsedown) and [ParsedownExtra](https://github.com/erusev/parsedown-extra)  
 Show TodoList checkbox
 
