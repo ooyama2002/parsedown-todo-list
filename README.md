@@ -8,9 +8,9 @@ Show TodoList checkbox
 ## How to use
 ```
 <?php
-require_once("lib/erusev-parsedown-1.7.4/Parsedown.php");
-require_once("lib/erusev-parsedown-extra-0.8.1/ParsedownExtra.php");
-require_once("lib/ooyama2002-parsedown-todo-list/ParsedownTodoList.php");
+require_once("Parsedown.php");
+require_once("ParsedownExtra.php");
+require_once("ParsedownTodoList.php");
 
 $parsedown = new ParsedownTodoList();
 
